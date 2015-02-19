@@ -1,0 +1,50 @@
+body 
+{
+	background-image: url('../static/images/actsa.png');
+	background-repeat:no-repeat;
+	background-size: ;
+	
+}
+
+Header 
+{
+	
+}
+.Header1
+{
+	font-size: 0;
+	text-align: center;
+	background-color: #EFEFEF;
+	margin: 5px;
+}
+.Header1a, .Header1b
+{
+	
+	display: inline-block;
+	width: 49%;
+	background-color: #EFEFEF;
+	font-size: 11px;
+	
+}	
+.Header1a
+{
+	font-size: 16px;
+	text-align: left;
+	padding: 3px;
+	
+}
+.Header1b
+{
+	font-size: 11px;
+	text-align: right;
+}
+.Header1b p 
+{
+	height: 16px;
+	margin: 0px;
+}
+.header2
+{
+
+}
+.header2a, .header2b
